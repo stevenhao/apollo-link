@@ -1,5 +1,5 @@
 {
-  "name": "apollo-fetcher",
+  "name": "apollo-link",
   "version": "0.0.0",
   "description": "Flexible, lightweight transport layer for GraphQL",
   "author": "Evans Hauser <evanshauser@gmail.com>",
@@ -11,12 +11,12 @@
   "typings": "./dist/src/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/apollographql/apollo-fetcher.git"
+    "url": "git+https://github.com/apollographql/apollo-link.git"
   },
   "bugs": {
-    "url": "https://github.com/apollographql/apollo-fetcher/issues"
+    "url": "https://github.com/apollographql/apollo-link/issues"
   },
-  "homepage": "https://github.com/apollographql/apollo-fetcher#readme",
+  "homepage": "https://github.com/apollographql/apollo-link#readme",
   "scripts": {
     "pretest": "npm run build",
     "test": "npm run test-only --",
